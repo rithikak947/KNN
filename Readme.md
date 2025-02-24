@@ -12,7 +12,7 @@ KNN is a **non-parametric, instance-based learning algorithm** used for classifi
 
 ## **Dataset Overview**  
 The **Student Depression Dataset** is a structured survey dataset containing **demographic, lifestyle, behavioral, and health-related attributes** that influence mental well-being. The target variable, **Depression Status**, is a **binary classification** (Yes/No).  
-
+this dataset is taken from kaggle and here is the link-https://www.kaggle.com/code/gustavors/depression-dataset-prediction
 ### **🔹 Features in the Dataset:**  
 | **Feature**          | **Description** |
 |---------------------|------------------|
